@@ -1,18 +1,18 @@
 
 <h1 align="center">##Hi there👋, I'm Alsumaira Khan</h1>
 <h3 align="center"># Welcome to My GitHub</h3>
-<h4 align="center">A passionate Java Full Stack Web Developer in training from India. 🚀</h4>
+<h5 align="center">A passionate Java Full Stack Web Developer in training from India. 🚀</h5>
 <h3 align="center">## 🔧 This Repository</h3>
-<h4 align="center">This is my first repository on GitHub where I will:</h4>
-<h4 align="center">- Document my learning journey</h4>
-<h4 align="center">- Share Java Full Stack mini and major projects</h4>
-<h4 align="center">- Collaborate and improve over time</h4>
+<h5 align="center">This is my first repository on GitHub where I will:</h5>
+<h5 align="center">- Document my learning journey</h5>
+<h5 align="center">- Share Java Full Stack mini and major projects</h5>
+<h5 align="center">- Collaborate and improve over time</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsumaira&label=Profile%20views&color=0e75b6&style=flat" alt="alsumaira" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsumaira" alt="alsumaira" /></a> </p>
 
-- 🌱 I’m currently learning **currently building Java-based full Stack projects**
+- 🌱 I’m **currently building Java-based full Stack projects**
 
 - 💬 Ask me about **🎓BSc IT (Final Year)**
 
