@@ -1,12 +1,12 @@
-<!--
+
 <h1 align="center">##Hi there👋, I'm Alsumaira Khan</h1>
 <h3 align="center"># Welcome to My GitHub</h3>
-<h3 align="center">A passionate Java Full Stack Web Developer in training from India. 🚀</h3>
-<h3 align="center">## 🔧 This Repository
-This is my first repository on GitHub where I will:
-- Document my learning journey
-- Share Java Full Stack mini and major projects
-- Collaborate and improve over time</h3>
+<h4 align="center">A passionate Java Full Stack Web Developer in training from India. 🚀</h4>
+<h3 align="center">## 🔧 This Repository</h3>
+<h4 align="center">This is my first repository on GitHub where I will:</h4>
+<h4 align="center">- Document my learning journey</h4>
+<h4 align="center">- Share Java Full Stack mini and major projects</h4>
+<h4 align="center">- Collaborate and improve over time</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alsumaira&label=Profile%20views&color=0e75b6&style=flat" alt="alsumaira" /> </p>
 
@@ -31,4 +31,4 @@ This is my first repository on GitHub where I will:
 
 <h3 align="center">Stay tuned for updates! 🌟</h3>
 
--->
+
